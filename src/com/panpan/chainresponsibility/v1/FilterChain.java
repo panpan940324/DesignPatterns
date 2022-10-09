@@ -1,4 +1,4 @@
-package com.panpan.chainresponsibility;
+package com.panpan.chainresponsibility.v1;
 
 import java.util.ArrayList;
 import java.util.List;

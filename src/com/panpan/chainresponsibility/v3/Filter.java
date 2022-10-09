@@ -1,4 +1,4 @@
-package com.panpan.chainresponsibility;
+package com.panpan.chainresponsibility.v3;
 
 /**
  * @className: Filter
@@ -8,5 +8,5 @@ package com.panpan.chainresponsibility;
  * @version: 1.0
  */
 public interface Filter {
-    boolean doFilter(Msg msg);
+    boolean doFilter(Request request, Response response, FilterChain filterChain);
 }
