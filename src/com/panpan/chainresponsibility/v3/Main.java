@@ -3,6 +3,7 @@ package com.panpan.chainresponsibility.v3;
 /**
  * @className: Main
  * @Decsription: 责任链模式
+ *  https://javaee.github.io/
  *
  * @Author: 盼盼学Java
  * @Date: 2022/10/6 1:29
